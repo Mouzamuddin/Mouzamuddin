@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mouzamuddin
+- 👋 Hi, I’m @Mouzamuddin Mir
 - 👀 I’m interested in Full stack web developer
 - 🌱 I’m currently learning JavaScript,HTML and CSS
 - 📫 How to reach me mir.mouzamuddin@gmail.com
